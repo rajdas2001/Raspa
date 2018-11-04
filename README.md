@@ -23,6 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 --> and explore our website
 --> Alternatively you can create your own localhost via firebase.
 -->https://firebase.google.com/docs/web/setup
+-->Start from index.html to enjoy the full website!
 
 
 
